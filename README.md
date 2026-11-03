@@ -37,6 +37,7 @@ pip install numpy opencv-python matplotlib pygame
    python receiver.py video.mp4 TEST
    ```
    It prints the received text, the bit error rate (BER) and the data rate, and saves a plot of the signal as `received_signal.png`.
+   **IMPORTANT**: This repository does not contain my videos due to size limits. To test, please record a video of your own.
 
 ## How it works
 
