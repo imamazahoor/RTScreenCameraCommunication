@@ -1,7 +1,7 @@
 # Real-Time Screen-Camera Communication Using the Alpha Channel
 
 > This project is part of a course assignment for **17320: Machine Learning & Sensing for Healthcare @ CMU**.
-> It is a simplified version of the system described in the paper below.
+> It is a simplified version of the system described in the following paper:
 > Tianxing Li, Chuankai An, Xinran Xiao, Andrew T. Campbell, and Xia Zhou. **"Real-Time Screen-Camera Communication Behind Any Scene."** In *Proceedings of the 13th Annual International Conference on Mobile Systems, Applications, and Services (MobiSys '15)*, Florence, Italy, May 2015. DOI: [10.1145/2742647.2742667](https://doi.org/10.1145/2742647.2742667).
 
 ## Files
